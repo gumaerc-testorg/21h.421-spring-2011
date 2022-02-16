@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Materials
 uid: 1bcc44a0-e9d7-7aff-a022-ed67c2dd632f
 ---

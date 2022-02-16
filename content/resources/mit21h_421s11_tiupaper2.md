@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information related to the towns of the swift
   river valley.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-421-introduction-to-environmental-history-spring-2011/be8cbd403b14d03c6eda32591bcf3826_MIT21H_421S11_tiupaper2.pdf
+file: /media/courses/21h-421-introduction-to-environmental-history-spring-2011/be8cbd403b14d03c6eda32591bcf3826_MIT21H_421S11_tiupaper2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_421S11_tiupaper2.pdf
 uid: be8cbd40-3b14-d03c-6eda-32591bcf3826
