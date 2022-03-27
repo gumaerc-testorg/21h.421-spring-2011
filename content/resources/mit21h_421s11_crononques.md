@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 resourcetype: Document
 title: MIT21H_421S11_crononques.pdf
 uid: c47ae8e6-8065-4b71-53ab-180b3ca58db3

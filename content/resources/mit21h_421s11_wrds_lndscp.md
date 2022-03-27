@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Materials
 parent_type: CourseSection
+parent_uid: 1bcc44a0-e9d7-7aff-a022-ed67c2dd632f
 resourcetype: Document
 title: MIT21H_421S11_wrds_lndscp.pdf
 uid: 9795f00f-1db2-9923-1e51-5dde3b4a0a7e

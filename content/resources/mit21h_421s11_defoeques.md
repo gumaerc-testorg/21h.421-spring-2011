@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 resourcetype: Document
 title: MIT21H_421S11_defoeques.pdf
 uid: 0b1c31e0-12c0-5442-0640-39c62042f4b6

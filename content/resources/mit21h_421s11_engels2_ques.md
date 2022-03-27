@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 resourcetype: Document
 title: MIT21H_421S11_ENGELS2_ques.pdf
 uid: 6d786084-91b4-f4a4-f43e-974af573be23

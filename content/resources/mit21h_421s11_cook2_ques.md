@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 resourcetype: Document
 title: MIT21H_421S11_cook2_ques.pdf
 uid: fc93fc21-e012-a91b-5815-045d559839fd

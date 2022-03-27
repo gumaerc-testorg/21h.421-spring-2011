@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Materials
 parent_type: CourseSection
+parent_uid: 1bcc44a0-e9d7-7aff-a022-ed67c2dd632f
 resourcetype: Document
 title: MIT21H_421S11_Industry_Dem.pdf
 uid: 32941b99-327a-aaf4-10d0-5d217fbee178

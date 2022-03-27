@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0924f012-1f15-c0e6-6924-bf4c50188537
 resourcetype: Document
 title: MIT21H_421S11_callahanppr.pdf
 uid: 51d9aa00-0702-fef0-7fdf-a20a0565bb01

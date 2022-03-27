@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0924f012-1f15-c0e6-6924-bf4c50188537
 resourcetype: Document
 title: MIT21H_421S11_gilbertbib.pdf
 uid: cdc96d0b-d201-9385-ab69-6518a40c55d8

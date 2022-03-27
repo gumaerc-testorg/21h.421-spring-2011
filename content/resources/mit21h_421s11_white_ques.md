@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 resourcetype: Document
 title: MIT21H_421S11_WHITE_ques.pdf
 uid: 0143d07e-6fa2-5efe-513c-6b7ed3386df3

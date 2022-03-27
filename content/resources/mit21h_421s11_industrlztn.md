@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Materials
 parent_type: CourseSection
+parent_uid: 1bcc44a0-e9d7-7aff-a022-ed67c2dd632f
 resourcetype: Document
 title: MIT21H_421S11_Industrlztn.pdf
 uid: 95fdeeab-ecef-fcbe-b14b-c76fe7f84c0b

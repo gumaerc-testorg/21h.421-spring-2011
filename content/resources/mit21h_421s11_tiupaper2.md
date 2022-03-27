@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0924f012-1f15-c0e6-6924-bf4c50188537
 resourcetype: Document
 title: MIT21H_421S11_tiupaper2.pdf
 uid: be8cbd40-3b14-d03c-6eda-32591bcf3826
