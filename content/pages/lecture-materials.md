@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly topics along with handouts
+  and other lecture materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Materials
@@ -32,9 +34,9 @@ Introduction
 {{< tdopen >}}
 
 
-Useful Word (and Date) List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_colex_words))
+Useful Word (and Date) List ({{% resource_link 94c85fda-bcc8-8d6e-c74f-d9328b8dec9c "PDF" %}})
 
-Handout: Kinds of Societies ([PDF]({{< baseurl >}}/resources/mit21h_421s11_societies4b))
+Handout: Kinds of Societies ({{% resource_link e2aafbc3-9c28-0715-75b6-e7722c6a1961 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -48,7 +50,7 @@ Week 2
 The Columbian Exchange
 {{< tdclose >}}
 {{< tdopen >}}
-Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_intro_dates))
+Useful Word List ({{% resource_link d79d8755-3d4c-c3e9-0f52-63baab609aec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ The Disease Environment
 
 Session 2: Paper 1 due
 
-Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_wrds_disease))
+Useful Word List ({{% resource_link 0abe1671-60c6-48ad-3094-a9173ef7d150 "PDF" %}})
 
 [The Great Plague of London 1665](http://ocp.hul.harvard.edu/contagion/plague.html)
 
@@ -98,13 +100,13 @@ Science and Nature
 
 Session 2: [Trip to MIT Archives](http://libraries.mit.edu/archives/)
 
-Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_scncnat_wrds))
+Useful Word List ({{% resource_link 1790d9c1-d36d-801b-282f-d9a96ba89a3b "PDF" %}})
 
-Handout: Systema Naturae (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_421s11_system_nat))
+Handout: Systema Naturae ({{% resource_link 71dd6dc2-99a3-ea9e-65f1-c0d54f08b990 "PDF" %}})
 
-Handout: Of the Cat (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_421s11_of_the_cat))
+Handout: Of the Cat ({{% resource_link d4196080-0d0f-3771-611a-e46d533db694 "PDF" %}})
 
-Handout: Bestiary and Natural History ([PDF]({{< baseurl >}}/resources/mit21h_421s11_best_nathist))
+Handout: Bestiary and Natural History ({{% resource_link 41b58d3e-b1ee-cffb-b04d-f4002544f9fb "PDF" %}})
 
 [First Fleet Artwork Collection](https://www.nhm.ac.uk/our-science/departments-and-staff/library-and-archives/collections/fleet-artwork-collection.html)
 
@@ -124,9 +126,9 @@ Landscape and Agriculture
 {{< tdopen >}}
 
 
-Useful Word List, Agriculture ([PDF]({{< baseurl >}}/resources/mit21h_421s11_wrds_agrev))
+Useful Word List, Agriculture ({{% resource_link fd6f62ed-9bb1-0821-873a-1511ed0f92a0 "PDF" %}})
 
-Useful Word List, Landscape ([PDF]({{< baseurl >}}/resources/mit21h_421s11_wrds_lndscp))
+Useful Word List, Landscape ({{% resource_link 9795f00f-1db2-9923-1e51-5dde3b4a0a7e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -144,9 +146,9 @@ Industry and Demography
 
 Session 2: Paper 2 due
 
-Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_industry_dem))
+Useful Word List ({{% resource_link 32941b99-327a-aaf4-10d0-5d217fbee178 "PDF" %}})
 
-Handout: The Shock of Industrialization ([PDF]({{< baseurl >}}/resources/mit21h_421s11_industrlztn))
+Handout: The Shock of Industrialization ({{% resource_link 95fdeeab-ecef-fcbe-b14b-c76fe7f84c0b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -160,7 +162,7 @@ Week 8
 Conservation and Preservation
 {{< tdclose >}}
 {{< tdopen >}}
-Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_prsrv_cnsrv))
+Useful Word List ({{% resource_link 828d6dc3-18df-d0b8-51fe-12cf45e9bdb0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
