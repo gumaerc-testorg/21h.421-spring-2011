@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/cdc96d0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_gilbertbib.pdf
 uid: cdc96d0b-d201-9385-ab69-6518a40c55d8
 ---
 This resource contains the information related to the gilbert annotated bibliography.
-

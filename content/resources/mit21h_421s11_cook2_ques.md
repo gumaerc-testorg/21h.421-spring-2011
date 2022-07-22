@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/fc93fc2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_cook2_ques.pdf
 uid: fc93fc21-e012-a91b-5815-045d559839fd
 ---
 This resource contains the information related to the journals of captain cook.
-

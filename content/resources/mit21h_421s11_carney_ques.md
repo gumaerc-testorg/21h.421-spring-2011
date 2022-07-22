@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/aaabef3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_Carney_Ques.pdf
 uid: aaabef31-8656-8984-c5d7-bb6f7c54d44d
 ---
 This resource contains the information related to African rise in the columbian exchange.
-

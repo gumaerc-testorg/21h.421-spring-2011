@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/0c0c2ef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_byersquabgeo.pdf
 uid: 0c0c2ef5-08e5-117d-a177-2d2137f06974
 ---
 This resource contains the information related to sources on a geologic time frame.
-

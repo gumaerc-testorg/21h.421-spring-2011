@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/51d9aa0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_callahanppr.pdf
 uid: 51d9aa00-0702-fef0-7fdf-a20a0565bb01
 ---
 This resource contains the information related to the changing attitudes in news and reports concerning the quabbin reservoir.
-

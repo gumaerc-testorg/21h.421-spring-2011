@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/a48b81d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_varillybib2.pdf
 uid: a48b81d2-7d91-f493-5d74-e017f7c48bcb
 ---
 This resource contains the information related to the pros and cons of the quabbin reservoir.
-

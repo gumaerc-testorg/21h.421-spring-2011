@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/c47ae8e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_crononques.pdf
 uid: c47ae8e6-8065-4b71-53ab-180b3ca58db3
 ---
 This resource contains the information related to the changes in the land.
-

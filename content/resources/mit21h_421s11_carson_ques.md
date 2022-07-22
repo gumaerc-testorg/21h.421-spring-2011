@@ -5,6 +5,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/cd229ff
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21H_421S11_CARSON_ques.pdf
 uid: cd229ffc-6ac6-2d2a-45e1-64b9db798f54
 ---
 This resource contains the information related to the silent spring.
-

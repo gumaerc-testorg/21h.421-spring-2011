@@ -5,6 +5,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/6e38867
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21H_421S11_mancall.pdf
 uid: 6e388679-ac05-5f27-1a59-ef1e29af6fa5
 ---
 This resource contains the information related to the questions of mancall.
-

@@ -5,6 +5,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/d52a5d2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21H_421S11_mcneillsweb.pdf
 uid: d52a5d2c-d15c-94e2-cdb3-7c08bd1822b3
 ---
 This resource contains the information related to the human web.
-

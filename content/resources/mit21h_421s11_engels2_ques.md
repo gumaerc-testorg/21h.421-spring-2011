@@ -6,6 +6,7 @@ file: /courses/21h-421-introduction-to-environmental-history-spring-2011/6d78608
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_421S11_ENGELS2_ques.pdf
 uid: 6d786084-91b4-f4a4-f43e-974af573be23
 ---
 This resource contains the information related to condition of the working class.
-
