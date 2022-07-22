@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0924f012-1f15-c0e6-6924-bf4c50188537
 ---
@@ -102,21 +106,21 @@ To construct your bibliographic essay you went through a process of finding a lo
 
 ### Student Samples
 
-Patrick Varilly ([PDF]({{< baseurl >}}/resources/mit21h_421s11_varillybib2)) (Courtesy of Patrick Varilly. Used with permission.)
+Patrick Varilly ({{% resource_link a48b81d2-7d91-f493-5d74-e017f7c48bcb "PDF" %}}) (Courtesy of Patrick Varilly. Used with permission.)
 
-Michelle Tiu ([PDF]({{< baseurl >}}/resources/mit21h_421s11_tiupaper2)) (Courtesy of Michelle Tiu. Used with permission.)
+Michelle Tiu ({{% resource_link be8cbd40-3b14-d03c-6eda-32591bcf3826 "PDF" %}}) (Courtesy of Michelle Tiu. Used with permission.)
 
-Joanna MacKay ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mackaybib)) (Courtesy of Joanna MacKay. Used with permission.)
+Joanna MacKay ({{% resource_link 2a037b36-1582-edfa-78db-e0a501e6fd35 "PDF" %}}) (Courtesy of Joanna MacKay. Used with permission.)
 
-Danielle Gilbert ([PDF]({{< baseurl >}}/resources/mit21h_421s11_gilbertbib)) (Courtesy of Danielle Gilbert. Used with permission.)
+Danielle Gilbert ({{% resource_link cdc96d0b-d201-9385-ab69-6518a40c55d8 "PDF" %}}) (Courtesy of Danielle Gilbert. Used with permission.)
 
-Tyler Callahan ([PDF]({{< baseurl >}}/resources/mit21h_421s11_callahanppr)) (Courtesy of Tyler Callahan. Used with permission.)
+Tyler Callahan ({{% resource_link 51d9aa00-0702-fef0-7fdf-a20a0565bb01 "PDF" %}}) (Courtesy of Tyler Callahan. Used with permission.)
 
-Tyler Callahan: Annotated Bibliography ([PDF]({{< baseurl >}}/resources/mit21h_421s11_callahanbib)) (Courtesy of Tyler Callahan. Used with permission.)
+Tyler Callahan: Annotated Bibliography ({{% resource_link e1234789-1dc0-4613-dfe8-1cccd8f0390f "PDF" %}}) (Courtesy of Tyler Callahan. Used with permission.)
 
-Kelsey Byers ([PDF]({{< baseurl >}}/resources/mit21h_421s11_byersquabgeo)) (Courtesy of Kelsey Byers (student). Used with permission.)
+Kelsey Byers ({{% resource_link 0c0c2ef5-08e5-117d-a177-2d2137f06974 "PDF" %}}) (Courtesy of Kelsey Byers (student). Used with permission.)
 
-Kelsey Byers: Annotated Bibliography ([PDF]({{< baseurl >}}/resources/mit21h_421s11_byrsquab_geo)) (Courtesy of Kelsey Byers (student). Used with permission.)
+Kelsey Byers: Annotated Bibliography ({{% resource_link 8a95caac-894e-8759-9572-d35a25e48aa1 "PDF" %}}) (Courtesy of Kelsey Byers (student). Used with permission.)
 
 Assignment 3: Exploration and Environment
 -----------------------------------------

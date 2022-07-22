@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the subject description, a syllabus archive, and
+  information on meeting times, communication intensive subjects, written assignments,  the
+  om-class exam, grading, and the schedule of weekly topics and key dates for the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d1bb2fc6-5ab1-308e-d773-b3b8dbe3096d
 ---
@@ -14,17 +20,17 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-Spring 2011, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_sylls11))
+Spring 2011, Harriet Ritvo ({{% resource_link 1cf4b748-e8fb-d688-f4ec-17126629a5af "PDF" %}})
 
-Fall 2008, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_syllf08))
+Fall 2008, Harriet Ritvo ({{% resource_link 9dfb6cbd-dfdc-b086-5952-3c854f102548 "PDF" %}})
 
-Spring 2008, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_sylls08))
+Spring 2008, Harriet Ritvo ({{% resource_link ccc70ba2-0bb6-2bef-83d7-c4efb2d0a13a "PDF" %}})
 
-Spring 2006, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_sylls06))
+Spring 2006, Harriet Ritvo ({{% resource_link 416217bb-36ff-c756-18ff-f1b624764ce8 "PDF" %}})
 
-Spring 2005, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_sylls05))
+Spring 2005, Harriet Ritvo ({{% resource_link c92fdbcc-22d3-d126-0cad-464f2ed4c1c1 "PDF" %}})
 
-Spring 2004, Harriet Ritvo ([PDF]({{< baseurl >}}/resources/mit21h_421s11_sylls04))
+Spring 2004, Harriet Ritvo ({{% resource_link 1af4502f-c462-e5de-c844-79869826b3c2 "PDF" %}})
 
 Subject Description
 -------------------
