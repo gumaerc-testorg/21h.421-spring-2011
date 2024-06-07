@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the kinds of societies.
 file: /courses/21h-421-introduction-to-environmental-history-spring-2011/e2aafbc39c28071575b6e7722c6a1961_MIT21H_421S11_societies4b.pdf
+file_size: 91701
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
