@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the words related to the preservation and conservation.
 file: /courses/21h-421-introduction-to-environmental-history-spring-2011/828d6dc318dfd0b851fe12cf45e9bdb0_MIT21H_421S11_Prsrv_Cnsrv.pdf
+file_size: 52346
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
