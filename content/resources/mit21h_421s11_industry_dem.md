@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the industry and demography.
 file: /courses/21h-421-introduction-to-environmental-history-spring-2011/32941b99327aaaf410d05d217fbee178_MIT21H_421S11_Industry_Dem.pdf
+file_size: 52581
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

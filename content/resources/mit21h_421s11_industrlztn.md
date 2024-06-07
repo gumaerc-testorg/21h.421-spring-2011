@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the shock of industrialization.
 file: /courses/21h-421-introduction-to-environmental-history-spring-2011/95fdeeabeceffcbeb14bc76fe7f84c0b_MIT21H_421S11_Industrlztn.pdf
+file_size: 147625
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
