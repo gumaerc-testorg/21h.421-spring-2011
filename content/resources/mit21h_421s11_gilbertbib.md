@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the gilbert annotated
   bibliography.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/cdc96d0bd2019385ab696518a40c55d8_MIT21H_421S11_gilbertbib.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/cdc96d0bd2019385ab696518a40c55d8_MIT21H_421S11_gilbertbib.pdf
 file_size: 160975
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the organic machine.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/0143d07e6fa25efe513c6b7ed3386df3_MIT21H_421S11_WHITE_ques.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/0143d07e6fa25efe513c6b7ed3386df3_MIT21H_421S11_WHITE_ques.pdf
 file_size: 55676
 file_type: application/pdf
 learning_resource_types:
