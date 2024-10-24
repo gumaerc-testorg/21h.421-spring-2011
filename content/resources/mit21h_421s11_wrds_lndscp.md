@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the wilderness and
   garden.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/9795f00f1db299231e515dde3b4a0a7e_MIT21H_421S11_wrds_lndscp.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/9795f00f1db299231e515dde3b4a0a7e_MIT21H_421S11_wrds_lndscp.pdf
 file_size: 52302
 file_type: application/pdf
 learning_resource_types: []
