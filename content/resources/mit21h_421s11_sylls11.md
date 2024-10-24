@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the syllabus of environmental history course of
   the term spring 2011.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/1cf4b748e8fbd688f4ec17126629a5af_MIT21H_421S11_sylls11.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/1cf4b748e8fbd688f4ec17126629a5af_MIT21H_421S11_sylls11.pdf
 file_size: 362726
 file_type: application/pdf
 learning_resource_types: []

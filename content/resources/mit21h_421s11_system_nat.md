@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the system naturae.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/71dd6dc299a3ea9e65f1c0d54f08b990_MIT21H_421S11_System_Nat.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/71dd6dc299a3ea9e65f1c0d54f08b990_MIT21H_421S11_System_Nat.pdf
 file_size: 554904
 file_type: application/pdf
 learning_resource_types: []

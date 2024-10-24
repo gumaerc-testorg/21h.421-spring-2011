@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the syllabus of environmental history course of
   the term fall 2008.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/9dfb6cbddfdcb08659523c854f102548_MIT21H_421S11_syllf08.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/9dfb6cbddfdcb08659523c854f102548_MIT21H_421S11_syllf08.pdf
 file_size: 74150
 file_type: application/pdf
 learning_resource_types: []
