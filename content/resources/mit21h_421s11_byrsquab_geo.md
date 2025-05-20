@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the annotated bibliography.
-file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/8a95caac894e87599572d35a25e48aa1_MIT21H_421S11_byrsquab_geo.pdf
+file: /courses/21h-421-introduction-to-environmental-history-spring-2011/8a95caac894e87599572d35a25e48aa1_MIT21H_421S11_byrsquab_geo.pdf
 file_size: 89980
 file_type: application/pdf
 learning_resource_types:

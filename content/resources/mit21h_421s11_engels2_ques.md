@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to condition of the working
   class.
-file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/6d78608491b4f4a4f43e974af573be23_MIT21H_421S11_ENGELS2_ques.pdf
+file: /courses/21h-421-introduction-to-environmental-history-spring-2011/6d78608491b4f4a4f43e974af573be23_MIT21H_421S11_ENGELS2_ques.pdf
 file_size: 55742
 file_type: application/pdf
 learning_resource_types:

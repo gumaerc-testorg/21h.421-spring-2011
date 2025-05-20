@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the columbian exchange.
-file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/94c85fdabcc88d6ec74fd9328b8dec9c_MIT21H_421S11_colex_words.pdf
+file: /courses/21h-421-introduction-to-environmental-history-spring-2011/94c85fdabcc88d6ec74fd9328b8dec9c_MIT21H_421S11_colex_words.pdf
 file_size: 53266
 file_type: application/pdf
 learning_resource_types: []
