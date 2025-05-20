@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the possessing mother
   nature.
-file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/c53cc2e727ffff023c87fd41fda716a6_MIT21H_421S11_Ritvo_Ques.pdf
+file: /courses/21h-421-introduction-to-environmental-history-spring-2011/c53cc2e727ffff023c87fd41fda716a6_MIT21H_421S11_Ritvo_Ques.pdf
 file_size: 84422
 file_type: application/pdf
 learning_resource_types:
