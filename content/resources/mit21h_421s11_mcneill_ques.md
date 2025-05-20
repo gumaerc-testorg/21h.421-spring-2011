@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the revolutionary mosquitoes
   of the Atlantic world.
-file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/1eeea041bf931969b4183cbc5349278d_MIT21H_421S11_McNeill_Ques.pdf
+file: /courses/21h-421-introduction-to-environmental-history-spring-2011/1eeea041bf931969b4183cbc5349278d_MIT21H_421S11_McNeill_Ques.pdf
 file_size: 85212
 file_type: application/pdf
 learning_resource_types:
