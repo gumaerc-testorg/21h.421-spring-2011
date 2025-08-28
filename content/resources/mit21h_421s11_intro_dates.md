@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the words and dates.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/d79d87553d4cc3e90f5263baab609aec_MIT21H_421S11_intro_dates.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/d79d87553d4cc3e90f5263baab609aec_MIT21H_421S11_intro_dates.pdf
 file_size: 53385
 file_type: application/pdf
 learning_resource_types: []

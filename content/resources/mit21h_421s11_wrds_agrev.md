@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to the landscape and agriculture.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/fd6f62ed9bb10821873a1511ed0f92a0_MIT21H_421S11_wrds_agrev.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/fd6f62ed9bb10821873a1511ed0f92a0_MIT21H_421S11_wrds_agrev.pdf
 file_size: 52641
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the pros and cons of
   the quabbin reservoir.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/a48b81d27d91f4935d74e017f7c48bcb_MIT21H_421S11_varillybib2.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/a48b81d27d91f4935d74e017f7c48bcb_MIT21H_421S11_varillybib2.pdf
 file_size: 134752
 file_type: application/pdf
 learning_resource_types:
