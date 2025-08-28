@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to quabbin news topic.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/e12347891dc04613dfe81cccd8f0390f_MIT21H_421S11_callahanbib.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/e12347891dc04613dfe81cccd8f0390f_MIT21H_421S11_callahanbib.pdf
 file_size: 120071
 file_type: application/pdf
 learning_resource_types:

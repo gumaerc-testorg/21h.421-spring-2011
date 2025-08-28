@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the conservation and
   preservation.
-file: /courses/21h-421-introduction-to-environmental-history-spring-2011/cb1ab52d81831679b1c081a1008d4107_MIT21H_421S11_jacoby_ques.pdf
+file: /ol-ocw-studio-app/courses/21h-421-introduction-to-environmental-history-spring-2011/cb1ab52d81831679b1c081a1008d4107_MIT21H_421S11_jacoby_ques.pdf
 file_size: 54428
 file_type: application/pdf
 learning_resource_types:
