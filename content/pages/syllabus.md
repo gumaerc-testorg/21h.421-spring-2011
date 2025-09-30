@@ -59,7 +59,7 @@ Things to Remember
 
 Written assignments should represent original and individual work. The following link to the MIT Online Writing and Communication Center gives some suggestions about how to recognize plagiarism and how to avoid it.
 
-[http://web.mit.edu/writing/Citation/plagiarism.html](http://web.mit.edu/writing/Citation/plagiarism.html)
+{{% resource_link "ff6b7a01-1b3e-4663-af1f-47466e584782" "http://web.mit.edu/writing/Citation/plagiarism.html" %}}
 
 All sources used in written assignments must be fully cited. This includes sources of information as well as direct quotations; it includes the assigned readings as well as other materials.
 
@@ -206,7 +206,7 @@ Week 5
 Science and Nature
 {{< tdclose >}}
 {{< tdopen >}}
-Session 2: Trip to [MIT Archives](http://libraries.mit.edu/archives/)
+Session 2: Trip to {{% resource_link "93fd7972-cc29-4fc6-a69e-a9a506475f59" "MIT Archives" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
