@@ -11,13 +11,13 @@ uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 
 \[Carson\] = Carson, Rachel. _Silent Spring_. Houghton Mifflin, original 1962, anniversary edition 2002. ISBN: 9780618249060.
 
-\[Cook\] = Cook, James. _Journals of Captain Cook_. Penguin Classics, 2000. ISBN: 9780140436471. \[See on [Project Gutenberg](http://www.gutenberg.org/ebooks/8106)\]
+\[Cook\] = Cook, James. _Journals of Captain Cook_. Penguin Classics, 2000. ISBN: 9780140436471. \[See on {{% resource_link "59bd7d52-b41d-4d70-9ddd-57ea4ea3caab" "Project Gutenberg" %}}\]
 
 \[Cronon\] = Cronon, William. _Changes in the Land: Indians, Colonists, and the Ecology of New England_. Hill and Wang, 2003. ISBN: 9780809016341.
 
-\[Defoe\] = Defoe, Daniel. _A Journal of the Plague Year_. W. W. Norton and Company, 1992. ISBN: 9780393961881. \[See on [Project Gutenberg](http://www.gutenberg.org/ebooks/376)\]
+\[Defoe\] = Defoe, Daniel. _A Journal of the Plague Year_. W. W. Norton and Company, 1992. ISBN: 9780393961881. \[See on {{% resource_link "275ec1e9-c3a1-4500-aa90-444da9ef19a1" "Project Gutenberg" %}}\]
 
-\[Engels\] = Engels, Friedrich. _The Condition of the Working Class in England_. Oxford University Press, 2009. ISBN: 9780199555888. \[See the original English translation on [Project Gutenberg](http://www.gutenberg.org/ebooks/17306)\]
+\[Engels\] = Engels, Friedrich. _The Condition of the Working Class in England_. Oxford University Press, 2009. ISBN: 9780199555888. \[See the original English translation on {{% resource_link "a8de0a75-4c7b-441a-a046-1cc7a4d374d9" "Project Gutenberg" %}}\]
 
 \[Jacoby\] = Jacoby, Karl. _Crimes Against Nature: Squatters, Poachers, Thieves, and the Hidden History of American Conservation_. University of California Press, 2003. ISBN: 9780520239098.
 
@@ -67,9 +67,9 @@ The Columbian Exchange
 
 Mancall, pp. 45-61, 112-132, and 140-148. **Questions**: ({{% resource_link 6e388679-ac05-5f27-1a59-ef1e29af6fa5 "PDF" %}})
 
-Carney, Judith A. "African Rice in the Columbian Exchange." _Journal of African History_ 42, no. 3 (2001): 377-396. \[[Abstract](http://www.jstor.org/pss/3647168)\] **Questions**: ({{% resource_link aaabef31-8656-8984-c5d7-bb6f7c54d44d "PDF" %}})
+Carney, Judith A. "African Rice in the Columbian Exchange." _Journal of African History_ 42, no. 3 (2001): 377-396. \[{{% resource_link "1a00ff06-68a5-420f-8a3b-e3ec5b0ceb15" "Abstract" %}}\] **Questions**: ({{% resource_link aaabef31-8656-8984-c5d7-bb6f7c54d44d "PDF" %}})
 
-McNeill, J. R. "Revolutionary Mosquitoes of the Atlantic World: Malaria and Independence." In _Natures Past: The Environment and Human History_. Edited by Paolo Squatriti. University of Michigan Press, 2007. ISBN: 9780472069606. \[Preview on [Google Books](http://books.google.com/books?id=UBUeNI7dMk8C&lpg=PP1&pg=PA145#v=onepage&q&f=false)\] **Questions**: ({{% resource_link 1eeea041-bf93-1969-b418-3cbc5349278d "PDF" %}})
+McNeill, J. R. "Revolutionary Mosquitoes of the Atlantic World: Malaria and Independence." In _Natures Past: The Environment and Human History_. Edited by Paolo Squatriti. University of Michigan Press, 2007. ISBN: 9780472069606. \[Preview on {{% resource_link "0748bb8f-4078-40cb-94af-fd085680f938" "Google Books" %}}\] **Questions**: ({{% resource_link 1eeea041-bf93-1969-b418-3cbc5349278d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ Conservation and Preservation
 
 Jacoby, Introduction and chapters 4-6. **Questions**: ({{% resource_link cb1ab52d-8183-1679-b1c0-81a1008d4107 "PDF" %}})
 
-Ritvo, Harriet. "Manchester v. Thirlmere and the Construction of the Victorian Environment." _Victorian Studies_ 49, no. 3 (2007): 457-481. \[[Abstract](http://www.jstor.org/pss/4626330)\]
+Ritvo, Harriet. "Manchester v. Thirlmere and the Construction of the Victorian Environment." _Victorian Studies_ 49, no. 3 (2007): 457-481. \[{{% resource_link "ba9fa92f-c4dd-4d4b-b74b-e5e9b61da3c0" "Abstract" %}}\]
 
 
 {{< tdclose >}}
@@ -177,7 +177,7 @@ Poisoning and Environmentalism
 
 Carson, Chapters 1, 7, 9, 10, 14, and 16. **Questions**: ({{% resource_link cd229ffc-6ac6-2d2a-45e1-64b9db798f54 "PDF" %}})
 
-Langston, Nancy. "The Retreat from Precaution: Regulating DES, Endocrine Disruption, and Environmental Health." _Environmental History_ 13, no. 1 (2008): 41-65. \[See on [Environmental History](https://academic.oup.com/envhis/article/13/1/41/423480)\]
+Langston, Nancy. "The Retreat from Precaution: Regulating DES, Endocrine Disruption, and Environmental Health." _Environmental History_ 13, no. 1 (2008): 41-65. \[See on {{% resource_link "dbcf1542-b741-4d24-8a90-8116f7136646" "Environmental History" %}}\]
 
 
 {{< tdclose >}}
