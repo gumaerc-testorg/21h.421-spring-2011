@@ -62,7 +62,7 @@ Week 3
 Wilderness and Garden
 {{< tdclose >}}
 {{< tdopen >}}
-[William Cronon's Home Page](http://www.williamcronon.net/index.htm)
+{{% resource_link "f7495e4a-c777-4902-bf37-4dd869e78926" "William Cronon's Home Page" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,9 +80,9 @@ Session 2: Paper 1 due
 
 Useful Word List ({{% resource_link 0abe1671-60c6-48ad-3094-a9173ef7d150 "PDF" %}})
 
-[The Great Plague of London 1665](http://ocp.hul.harvard.edu/contagion/plague.html)
+{{% resource_link "32c71e3b-4dfe-439a-8de3-d62f9cc19dd3" "The Great Plague of London 1665" %}}
 
-[The Bubonic Plague](http://www.themiddleages.net/plague.html), the CDC's page on the Bubonic Plague.
+{{% resource_link "6c8c4fa7-bbdb-4ac2-aae0-dccb6500cd23" "The Bubonic Plague" %}}, the CDC's page on the Bubonic Plague.
 
 
 {{< tdclose >}}
@@ -98,7 +98,7 @@ Science and Nature
 {{< tdopen >}}
 
 
-Session 2: [Trip to MIT Archives](http://libraries.mit.edu/archives/)
+Session 2: {{% resource_link "93fd7972-cc29-4fc6-a69e-a9a506475f59" "Trip to MIT Archives" %}}
 
 Useful Word List ({{% resource_link 1790d9c1-d36d-801b-282f-d9a96ba89a3b "PDF" %}})
 
@@ -108,9 +108,9 @@ Handout: Of the Cat ({{% resource_link d4196080-0d0f-3771-611a-e46d533db694 "PDF
 
 Handout: Bestiary and Natural History ({{% resource_link 41b58d3e-b1ee-cffb-b04d-f4002544f9fb "PDF" %}})
 
-[First Fleet Artwork Collection](https://www.nhm.ac.uk/our-science/departments-and-staff/library-and-archives/collections/fleet-artwork-collection.html)
+{{% resource_link "4913f138-878c-4002-9a52-e3b567d2b303" "First Fleet Artwork Collection" %}}
 
-[Captain Cook Society](http://www.captaincooksociety.com/)
+{{% resource_link "c045dd1e-2ca2-4816-b3b9-2d8b96dacbe8" "Captain Cook Society" %}}
 
 
 {{< tdclose >}}
@@ -192,7 +192,7 @@ Week 10
 Poisoning and Environmentalism
 {{< tdclose >}}
 {{< tdopen >}}
-[Rachel Carson Website](http://www.rachelcarson.org/)
+{{% resource_link "376f74f4-2839-47d0-9714-4abc6efaddd1" "Rachel Carson Website" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
